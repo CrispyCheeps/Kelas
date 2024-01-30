@@ -1,0 +1,4 @@
+Focus : flow chart, use case, spesifikasi use case.
+tools : Microsoft Visio, Draw.io, lucidchart, visual pardigm.
+
+

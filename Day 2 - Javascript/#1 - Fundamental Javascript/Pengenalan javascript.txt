@@ -1,0 +1,17 @@
+macam2 script tag:
+1. Internal script tag
+2. External
+
+
+Macam2 variabel js
+1. let
+2. const
+3. var
+
+
+Scope pemrograman
+1. Global scope
+2. Function scope
+3. Block scope
+
+Aturan penamaan variabel dlm js yg populer adalah camelCase

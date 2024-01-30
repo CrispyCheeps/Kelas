@@ -1,0 +1,20 @@
+Cara penulisan fungsi di JS
+
+function name (parameter1, parameter2) {
+	//code here
+}
+
+
+Fungsi jg dapat berperan sebagai:
+1. Fungsi sbg objek (penjelasan buka di buku)
+2. fungsi sbg variable (penjelasan buka di buku)
+
+
+
+-----------------------------
+
+Arrow function
+
+const pangkatDua = angka => angka * angka;
+
+
