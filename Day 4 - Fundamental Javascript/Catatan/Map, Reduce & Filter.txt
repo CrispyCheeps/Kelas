@@ -1,0 +1,3 @@
+Map, filter, dan reduce adalah methods dlm JS.
+
+Map -> 

@@ -1,0 +1,11 @@
+Perulangan:
+- Counted Loop
+	1. Perulangan For -> menampung tiga parameter(inisialisasi, kondisi, dan incremental/decremental).
+	2. Perulangan Foreach -> biasanya dipake utk cetak item di dlm array.
+	3. Perulangan Repeat -> khusus digunakan utk mengulang sebuah teks (string). Merupakan singkat dari perulangan for.
+
+
+- Uncounted loop
+	1. Perulangan While
+	2. Perulangan Do/While -> Dilakukin perulangan dulu sekali baru cek kondisi di dlm kurung while
+		

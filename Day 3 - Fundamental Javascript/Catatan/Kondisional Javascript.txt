@@ -1,0 +1,10 @@
+Kondisional macemnya ada:
+
+1. Boolean -> True & false
+2. Comparator -> pake simbol >, <, =, ==. ===
+3. Percabangan if
+4. Percabangan if/else
+5. Percabangan if/elseif/else
+6. Logical operator (or, AND)
+7. Percabangan dgn operator Ternary
+8. Percabangan bersarang (nested)

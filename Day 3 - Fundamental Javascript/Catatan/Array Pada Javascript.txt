@@ -1,0 +1,59 @@
+Array itu adalah salah satu struktur data
+
+TUTORIAL Array pada kali ini:
+Mencetak isi Array dengan Perulangan
+Cara Menambahkan Data ke Dalam Array
+Cara Menghapus Data ArrayMenghapus Data dari Depan
+Menghapus Data pada Indeks Tertentu
+Mengubah isi Array
+Method-method Array
+
+
+BUILT-in Function pada array :
+1. push -> menambahkan nilai di blkg nilai terakhir di array
+2. pop -> menghapus nilai terakhir di array.
+3. unshift -> menambah nilai pd index 0, trus digeser semua seluruh isi array ke blkg.
+4. shift -> menghapus nilai palign dpn dr array.
+5. join
+6. sort -> mengurutkan nilai dr array, udh scr default pengurutan scr ascending. Diurutkan berdasarkan unicode dr karakter.
+
+Masalah yg sering ditemui:
+- pada sorting angka. Krn waktu ngurutin [1, 2, 15] malah jadi [1, 15, 2]. Soalnya 15 dibaca dpnnya 1 makanya ditaruh dpnnya 2.
+- Maka dr itu kita butuh solusi yaitu, menambahkan function pada function sort berupa function pembanding yg menilai apakah nilai pertama lebih kecil dr nilai kedua.
+
+7. splice
+-Mengambil riisan dr sebuah array.
+contoh:
+var arr = ["buku", "laptop", "komputer"];
+arr.splice(2,0,"televisi");
+//artinya, menghapus 0 nilai dari index2, dan menambah satu nilai pada index 2 yaitu "televisi".
+
+8. split
+->Buat memecah string trus dikembaliin nilainya berupa array sesuai dg separator atau pemisah tertentu yang didefinisikan.
+contoh:
+var kalimat = "saya adalah full-stack javascript programmer".
+var kata = kalimat.split(" ");
+
+nanti outputnya bakal -> ["saya", "adalah", ........... ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

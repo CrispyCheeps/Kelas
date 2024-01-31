@@ -1,0 +1,21 @@
+CI/CD itu cingkatan dari continuous integration (CI) sm continuous delivery (CD)
+
+Cakupan : langkah2 dr penggabungan kode hingga pengiriman ke produksi secara otomatis.
+
+CI:
+- praktik para pengembang itu nggabungin kode, kerjasama di dlm sebuah repository bersama; contohnya : git.
+- Tujuan : Mendeteksi dan memperbaiki konflik pada siklus pengembangan. sehingga tim bisa segera ngatasi masalah klo ada isu muncul.
+
+CD:
+- Pkke semua proses pengiriman perangkat lunak dr pembangunan, pengujian, sampe tahap produksi.
+
+
+--------------------------
+
+CI/CD Tools:
+1. Jenkins
+2. AWS Codebuild
+3. Azure devops
+4. Gitlab CI/CD
+5. Github action
+

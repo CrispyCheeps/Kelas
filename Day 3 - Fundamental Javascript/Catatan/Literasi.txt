@@ -1,0 +1,15 @@
+-https://www.freecodecamp.org/news/two-ways-to-check-for-palindromes-in-javascript-64fea8191fd7/
+
+-buat reverse:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse?retiredLocale=id
+
+-prompt js:
+https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt
+
+-https://www.w3schools.com/js/js_whereto.asp
+
+-Baca literasi tentang writeIn di JS
+
+
+CARA NGURUTIN ASC & DESC DI JS
+https://www.javascripttutorial.net/javascript-array-sort/
