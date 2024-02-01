@@ -1,3 +1,7 @@
 Map, filter, dan reduce adalah methods dlm JS.
 
-Map -> 
+Map -> Biasanya utk membuat array baru dr array existing. Di looping per setiap nilai pada deretan array.
+
+Filter -> utk mencari semua elemen di dlm array sesuai dg kriteria tertentu.
+
+Reduce -> Memerlukan dua paremeter; accumulator dan current value. Digunakan dlm kasus akumulator pada deretan array.

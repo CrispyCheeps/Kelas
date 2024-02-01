@@ -1,0 +1,7 @@
+Intinya use strict adalah konsep di JS spy ngoding itu ga sembarangan dan ketat lah pokoknya. Ini mbantu programmer utk nulis kode lebih aman. Contoh sederhananya use strict itu misal kita nulis n="hello again" nah n ini apa? kan tdk didefinisikan dgn let, var, atau const. Ini bakalan error nanti.
+
+nah kegunaan konsep use strict pd js ini:
+1. mencegah pembuatan variabel global secara tdk sengaja
+2. Mencegah penggunaan kata yg dicadangkan sbg nama variabel
+3. Mencegah penghapusan variabel, fungsi, atau fungsi argumen.
+4. Mencegah duplikasi parameter.
