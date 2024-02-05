@@ -1,0 +1,5 @@
+DBMS vs RDBMS
+
+DBMS -> aplikasi yg digunakan utk membuat, mem-maintain database serta menyediakan akses kontrol pada data dlm database.
+
+RDBMS (Relational Dabatase Management System) -> versi ter-advanced dr DBMS
